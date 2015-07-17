@@ -5,6 +5,17 @@ A simple Brunch skeleton to make writing Elm apps or testing Elm-JS things easie
 
 
 
+Requirements
+------------
+
+Have globally installed the following:
+
+- npm
+- Brunch
+- Elm (version `1.x` same as or newer than `1.5.2`.  It'll probably work.)
+
+
+
 Setting Up
 ----------
 

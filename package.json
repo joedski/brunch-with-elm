@@ -21,8 +21,5 @@
     "css-brunch": "^1.7.0",
     "elm-brunch": "^0.2.0",
     "javascript-brunch": "^1.7.1"
-  },
-  "devDependencies": {
-    "elm": "^1.5.2"
   }
 }

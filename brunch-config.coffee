@@ -12,5 +12,5 @@ exports.config =
 
 	plugins:
 		elmBrunch:
-			mainModules: [ 'app/CreeperPanel.elm' ]
+			mainModules: [ 'app/App.elm' ]
 			outputFolder: 'public/'

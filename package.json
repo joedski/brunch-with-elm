@@ -1,0 +1,26 @@
+{
+  "name": "SNAZZY_APP",
+  "version": "0.0.0",
+  "description": "A Snazzy Elm App",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deps": "npm install && node node_modules/.bin/elm-package install",
+    "start": "brunch watch -s"
+  },
+  "keywords": [
+    "elm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOU/SNAZZY_APP.git"
+  },
+  "author": "YOU",
+  "license": "ISC",
+  "dependencies": {
+    "css-brunch": "^1.7.0",
+    "elm": "^1.5.2",
+    "elm-brunch": "^0.2.0",
+    "javascript-brunch": "^1.7.1"
+  }
+}

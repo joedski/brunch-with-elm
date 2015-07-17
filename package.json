@@ -5,7 +5,7 @@
   "main": "public/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deps": "npm install && node node_modules/.bin/elm-package install",
+    "deps": "npm install && elm package install",
     "start": "brunch watch -s"
   },
   "keywords": [
@@ -19,8 +19,10 @@
   "license": "ISC",
   "dependencies": {
     "css-brunch": "^1.7.0",
-    "elm": "^1.5.2",
     "elm-brunch": "^0.2.0",
     "javascript-brunch": "^1.7.1"
+  },
+  "devDependencies": {
+    "elm": "^1.5.2"
   }
 }
